@@ -1,4 +1,4 @@
-<div align = center textaling = left>
+
   <h4>Hi there 👋</h4>
   
   🌎 I am JeongHan Lee who is interested in DataBase from South Korea.
@@ -7,11 +7,10 @@
   
   
   <h4>🎨 Experience</h4>
-  
     • Shintek (주)신라정보기술 Researcher
     • Dongui University of Science Graduation
     • Kyungsung University leaving school
-</div>
+
 
 <!--
 **xian0310567/xian0310567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
