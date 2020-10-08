@@ -10,7 +10,7 @@
   
     • before Shintek (주)신라정보기술 Researcher
     
-    • Dongui University of Science Graduation
+    • Dongeui Institute of Technology Graduation
     
     • Kyungsung University leaving school
 
