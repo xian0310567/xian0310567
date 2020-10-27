@@ -8,7 +8,7 @@
   
   <h4>🎨 Experience</h4>
   
-    • before Shintek (주)신라정보기술 Researcher
+    • before Shintek 신라정보기술(주) Researcher
     
     • Dongeui Institute of Technology Graduation
     
