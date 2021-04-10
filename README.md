@@ -13,6 +13,8 @@
     • Dongeui Institute of Technology Graduation
     
     • Kyungsung University leaving school
+    
+    • 2021 ~ CadiansSystem Developer
 
 
 <!--
