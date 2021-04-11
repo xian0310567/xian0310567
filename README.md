@@ -13,9 +13,6 @@
     • Dongeui Institute of Technology Graduation
     
     • Kyungsung University leaving school
-    
-    • 2021 ~ CadiansSystem Developer
-
 
 <!--
 **xian0310567/xian0310567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
