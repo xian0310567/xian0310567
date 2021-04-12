@@ -3,7 +3,7 @@
   
   I am JeongHan Lee who is interested in DataBase from South Korea.
   
-  I usually do C#.net, SQL, Swift
+  I usually do JAVA, SQL, Swift
   
   
   <h4>🎨 Experience</h4>
