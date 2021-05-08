@@ -3,19 +3,26 @@
   
   I am JeongHan Lee who is interested in DataBase from South Korea.
   
-  I usually do JAVA, SQL, Swift
+  I usually do MERN Stack!
+  
+  If you want to contact me, please leave me a message!
   
   
   <h4>🎨 Experience</h4>
-  
-    • before Shintek 신라정보기술(주) Researcher
+ 
+    • Shintek - C#.net MES Developer (Jul 2015 ~ May 2016)
     
-    • Dongeui Institute of Technology Graduation
+    • Cadians System - Web FullStack MES Developer (Mar 2021 ~ )
     
-    • Kyungsung University leaving school
+    
+    
 
 <!--
 **xian0310567/xian0310567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+    Dongeui Institute of Technology Graduation
+    
+    Kyungsung University leaving school
 
 Here are some ideas to get you started:
 
