@@ -10,7 +10,7 @@
   
   <h4>🎨 Experience</h4>
  
-    • Shintek - C#.net MES Developer (Jul 2015 ~ May 2016)
+    • ** Shintek ** - C#.net MES Developer (Jul 2015 ~ May 2016)
     
     • Cadians System - Web FullStack MES Developer (Mar 2021 ~ )
     
