@@ -3,8 +3,6 @@
   
   I am JeongHan Lee who is interested in DataBase from South Korea.
   
-  I usually do MERN Stack!
-  
   If you want to contact me, please leave me a message!
   
   
@@ -19,6 +17,8 @@
 
 <!--
 **xian0310567/xian0310567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+    I usually do MERN Stack!
 
     Dongeui Institute of Technology Graduation
     
