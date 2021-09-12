@@ -1,7 +1,7 @@
 
   <h5>Hi there 👋</h5>
   
-  I am JeongHan Lee who is interested in DataBase from South Korea.
+  I am JeongHan Lee who is interested in Javascript from South Korea.
   
   If you want to contact me, please leave me a message!
   
